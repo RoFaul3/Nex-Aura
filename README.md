@@ -26,3 +26,6 @@ AI-Powered Content Creation
 
 
 Semantic Web / Personal Intelligence Systems
+
+
+Neuro-Inspired Design
